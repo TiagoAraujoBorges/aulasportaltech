@@ -1,2 +1,2 @@
 # aulasportaltech
-projetos do curso portal tech
+Projetos do Curso Portal Tech.
